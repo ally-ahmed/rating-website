@@ -1,0 +1,26 @@
+body{
+	background-color: silver;
+}
+/*.bar{
+	/*background-color: black;*/
+	/*color: white;*/
+	padding: 20px 10px 10px 0px; 
+}
+}
+/*.bar.menu ul{
+	margin-top: -50px;
+}
+.bar.menu li {
+	float: right;
+	display: inline;
+	text-decoration: none;
+	position: relative;
+	margin-right: 20px;
+}
+p{
+	font-size: 25px;
+}
+*/*/
+.centre h1 p label input{
+	text-align: center;
+}

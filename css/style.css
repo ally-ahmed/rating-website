@@ -1,0 +1,51 @@
+body{
+	background-color: silver;
+}
+.navbar{
+	background-color: black;
+	color: white;
+	margin:-20px 0px 0px -5px;
+	padding:0px 0px 0px 10px;
+}
+.navbar h1{
+	font-family: Indie Flower;
+}
+.navbar ul{
+	float: right;
+	margin-top: -50px
+}
+.navbar ul li{
+	text-decoration: none;
+	display: inline;
+	margin-right: 20px;
+
+}
+.questions h1{
+	font-family: Orbitron;
+}
+.navbar ul li form{
+	display: inline;
+	
+}
+.questions form p{
+	font-family: Gloria Hallelujah;
+	font-size: 25px;
+	text-align: center;
+	
+}
+.questions form label{
+	font-family: Ravi Prakash;
+	font-size: 25px;
+	display: block;
+	text-align: center;
+}	
+.questions form p{
+	font-family: Gloria Hallelujah;
+	font-size: 25px;
+	text-align: center;
+}
+.questions ul{
+	list-style-type: none;
+}
+
+			
